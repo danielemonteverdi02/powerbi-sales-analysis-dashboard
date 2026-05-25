@@ -1,0 +1,27 @@
+Color Code
+Dark Blue : #1D4ED8
+Light Blue : #60A5FA
+Green : #22C55E
+Orange : #F59E0B
+AVO : #0E9FAA
+
+
+Page Size : 
+1480
+820
+
+Filter pane
+Hight 820
+Width 155
+
+Position 
+11
+0
+
+Shape
+hight 135
+width 245
+
+Position 
+175
+88
