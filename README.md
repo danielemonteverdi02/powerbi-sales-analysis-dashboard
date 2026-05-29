@@ -1,3 +1,5 @@
+This dashboard was developed as a guided learning project to practice Power BI, DAX and data visualization techniques.
+
 # 📈 Sales Analysis Dashboard
 
 ## 📌 Project Overview
